@@ -444,7 +444,7 @@ img {
   color: #f4f4fd;
 }
 
-.footer-text-wrap {
+.footer-text {
   margin-right: 120px;
 }
 
@@ -457,6 +457,7 @@ img {
 }
 
 .soclink-blok {
+  margin-right: 120px;
 }
 
 .footer-title {
@@ -493,7 +494,7 @@ img {
   fill: #f4f4fd;
 }
 
-.soclink-footer-svg-link:hover,
-.soclink-footer-svg-link:focus {
+.footer-svg-link:hover,
+.footer-svg-link:focus {
   background-color: #31d0aa;
 }
